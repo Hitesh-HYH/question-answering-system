@@ -6,7 +6,7 @@ The goal is to develop a medical question-answering system utilizing the provide
 
 ### Approach Used to Tackle the Problem
 
-The approach to tackle the problem involves building a simple sequence-to-sequence (Seq2Seq) model using an encoder-decoder architecture with LSTM layers.
+The approach to tackle the problem involves building a simple sequence-to-sequence (Seq2Seq) model using an encoder-decoder architecture with LSTM layers with the help of Tensorflow and Keras.
 
 ### Assumptions Made During Model Development and Training
 
